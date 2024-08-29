@@ -94,6 +94,8 @@
 - ![alt text](image-11.png)
 - we don't interfear in this we just utilize it.
 
+# Day-2
+
 ### Azure WebJob
 
 - the web jobs will automate the tasks in background . it is a convenient way to execute code on a schedule or in response to certain triggers,without having to manage seperate infrsatructure.
